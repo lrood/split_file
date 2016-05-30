@@ -1,0 +1,3 @@
+This file allows the user to split very large files into managable uploads.  It is very useful in taking database files and
+splitting them into smaller pieces.  It returns the number of file lines or records to help the user decide where to 
+split the file. 
